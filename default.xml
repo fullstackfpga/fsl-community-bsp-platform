@@ -21,4 +21,11 @@
   <project remote="freescale" revision="dunfell" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="freescale" revision="dunfell" name="Documentation" path="sources/Documentation"/>
 
+  <project remote="freescale" revision="dunfell" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/> 
+  <project remote="freescale" revision="dunfell" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
+  <project remote="freescale" revision="dunfell" name="Documentation" path="sources/Documentation"/>
+
+  <project remote="toradex" revision="wip-dunfell" name="meta-toradex-nxp" path="sources/meta-toradex-nxp"/>
+  <project remote="toradex" revision="wip-dunfell" name="meta-toradex-bsp-common" path="sources/meta-toradex-bsp-common"/>
+
 </manifest>
